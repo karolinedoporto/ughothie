@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zaeshiefai.yz0812.top/sitemap.xml
